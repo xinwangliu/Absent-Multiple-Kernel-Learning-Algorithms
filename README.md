@@ -1,6 +1,6 @@
 # Absent Multiple Kernel Learning Algorithms
 
-Matlab code for AAAI17：Absent Multiple Kernel Learning Algorithms.
+Matlab code for TPAMI2020：Absent Multiple Kernel Learning Algorithms.
 
 main function: AbsentMKClassificationDemo.m
 
